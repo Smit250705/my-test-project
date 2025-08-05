@@ -22,6 +22,7 @@ app.post("/send-email", async (req, res) => {
       error: `Missing required fields: ${missing.join(", ")}`,
     });
   }
+  sdjjjinnkdncjns jwnn
 
   try {
     const transporter = nodemailer.createTransport({
